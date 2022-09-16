@@ -2,7 +2,7 @@ Hi This is Ravi K R, full stack web developer.
 
 # Project Name : 13. Sass-landing-page ![](https://img.shields.io/badge/Project-13-green)
 
-This is a Hosting Website landing page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox. specifically this project helped me to expore new things like Box Shadow, Hover Effect, and cards gradient images, transform property etc . 
+This is a Sass-landing-page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox. specifically this project helped me to expore new things like Box Shadow, Hover Effect, and cards gradient images, transform property etc . 
 
 </br>
 
